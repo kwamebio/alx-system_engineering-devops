@@ -1,3 +1,0 @@
-#!/bin/bash
-echo 'Readme' > README.md
-echo "Hello, World"
